@@ -5,7 +5,7 @@
 [3]将网页内容清洗和输入字段检测集成；
 [4]有个简单直观的界面，以便展示上述功能。
 
-1、本次大作业使用Android Studio编程环境。
+1、本次大作业使用Android Studio编程环境，安卓模拟器用平板较好。
 
 2、在代码部分需要导入Jsoup库，在build.gradle.kts(Module:app)内添加：
 dependencies {
