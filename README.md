@@ -67,10 +67,10 @@
 - 在应用中，用户可以输入 HTML 代码，点击“清洗”按钮来移除不安全的内容（如 `<script>` 标签、内联样式等）。
 - 用户也可以选择对某些输入字段进行安全性分析，查看是否存在潜在的安全隐患。
 
-## 开发与贡献
+## 结果展示
 
-如果您对该项目有兴趣或想要贡献，请参考以下步骤：
+![image](https://github.com/user-attachments/assets/a5765bb7-da97-4838-a027-27547823e356)
 
-1. Fork 本项目到您的 GitHub 账户。
-2. 克隆到本地环境进行开发。
-3. 提交 Pull Request，说明您所做的改动。
+![image](https://github.com/user-attachments/assets/1302f964-bfa1-4336-a6c3-b83817c02828)
+
+
